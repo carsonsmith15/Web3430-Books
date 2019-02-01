@@ -3,7 +3,7 @@ import { Book } from '../models/book';
 import { BooksService } from '../services/books.service';
 
 @Component({
-    selector: 'books-el',
+    //selector: 'books-el',
     templateUrl: './books.component.html'
 })
 
